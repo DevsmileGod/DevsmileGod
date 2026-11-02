@@ -1,15 +1,14 @@
-### Hi, I'm Yumin
+### Hi, I'm Mitchell
 
-I'm a software engineer who works on machine learning in production. For about eight years I've been taking models out of notebooks and onto the hardware and services that actually run them: semiconductor fabs, telecom networks, and in-vehicle AI chips.
+I'm Mitchell Gray. I build websites, desktop tools, and browser games, mostly in Python and TypeScript.
 
-Most recently I spent three and a half years at Black Sesame Technologies deploying perception models for autonomous driving. That meant INT8 quantization, C++ and CUDA kernel work, and an internal RAG assistant over our technical docs that ended up with 600+ engineers using it. Before that I built anomaly detection and streaming pipelines for telecom operations at FiberHome, and I started out on wafer defect classification at Yangtze Memory.
+#### Projects
 
-These days I work independently on backend services and LLM applications: retrieval, agents, and the APIs around them.
-
-- Portfolio: [uminnos.net](https://uminnos.net)
-- LinkedIn: [in/yumin-chen-a8a242448](https://www.linkedin.com/in/yumin-chen-a8a242448/)
-- Email: yuminchenes@gmail.com
+- **[Portfolio](https://github.com/DevsmileGod/Portfolio)**: a scroll-driven portfolio site in React, TypeScript and WebGL, built for Yumin Chen. Live at [uminnos.net](https://uminnos.net).
+- **[Pixel Asset Extractor](https://github.com/DevsmileGod/pixel_asset_extractor)**: a Python desktop app (PySide6, OpenCV) that cuts clean, transparent PNG sprites out of large pixel-art sheets.
+- **[Auto_GMessage](https://github.com/DevsmileGod/Auto_GMessage)**: a Python desktop app for Gmail outreach. It sends a unique first message to each recipient, then watches the inbox and replies to anyone who answers.
+- **[Hell Farmers](https://github.com/DevsmileGod/2D-full-game)**: a 2D browser game in a single HTML file, with boss fights and sound.
 
 #### What I work with
 
-Python and C++ day to day, PyTorch and CUDA for models, Go and Java for services, Kafka, Flink and Spark for data, and Docker and Kubernetes to ship it.
+Python, PySide6 and OpenCV for desktop tools; React, TypeScript, Tailwind CSS and WebGL for the web; HTML and JavaScript for games.
